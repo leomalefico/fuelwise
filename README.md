@@ -31,27 +31,27 @@
 
 ---
 
-## 📋 Sobre
+## Sobre
 
 O **FuelWise** calcula o custo real por quilômetro rodado considerando tanto o preço por litro quanto o consumo específico de cada combustível. Vai além da regra dos 70% ao incluir a eficiência real do seu veículo.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- **📊 Barras comparativas animadas** — Visualização proporcional do custo por km
-- **💰 Painel de economia** — Mostra exatamente quanto você economiza por km
-- **🌙 Dark / Light mode** — Alternância com preferência salva no navegador
-- **📱 100% responsivo** — Funciona perfeitamente em celular, tablet e desktop
-- **🎨 Design moderno** — Limpo, profissional com transições suaves
-- **⚡ 100% client-side** — Zero dependências, roda direto no navegador
+- ** Barras comparativas animadas** — Visualização proporcional do custo por km
+- ** Painel de economia** — Mostra exatamente quanto você economiza por km
+- ** Dark / Light mode** — Alternância com preferência salva no navegador
+- ** 100% responsivo** — Funciona perfeitamente em celular, tablet e desktop
+- ** Design moderno** — Limpo, profissional com transições suaves
+- ** 100% client-side** — Zero dependências, roda direto no navegador
 
-## 🚀 Como usar
+##  Como usar
 
 1. Acesse: **[https://leomalefico.github.io/fuelwise/](https://leomalefico.github.io/fuelwise/)**
 2. Preencha preço e consumo de cada combustível
 3. Clique em **Verificar Vantagem**
 4. Veja o resultado com gráfico e economia por km
 
-## 🌐 Deploy
+##  Deploy
 
 O projeto está online pelo **GitHub Pages** neste repositório:
 ```bash
