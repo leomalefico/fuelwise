@@ -20,7 +20,6 @@
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-como-usar">Como usar</a> •
   <a href="#-deploy">Deploy</a> •
-  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
